@@ -1,0 +1,13 @@
+node_modules/
+shields.env
+.git/
+.gitignore
+.github
+.vscode/
+fly.toml
+
+*.md
+doc/
+
+# Improve layer cacheability.
+Dockerfile
